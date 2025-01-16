@@ -24,6 +24,8 @@
 
 
 ## Slides
+* [API:er](https://docs.google.com/presentation/d/1NnuDXe2jYg-XgAooN35WM6ZBwdW3B5ArDwkjyA2jss4/edit?usp=sharing)
+
 
 ## Lektioner
 ##### Med tillhörande repon
