@@ -1,7 +1,7 @@
 # schema-vecka-4
 Övergripande schema över veckan
 
-###### Javascript, vecka 4 av 4
+###### Javascript, vecka 3 av 4
 
 ## Mål för veckan
 1. Kunna modifiera DOM:en mha event
