@@ -27,8 +27,8 @@
 
 ## Lektioner
 ##### Med tillhörande repon
-* **Måndag** - Felhantering med try catch, Local storage
-* **[Tisdag]()** - API:er, asynkron JS och fetch
-* **[Onsdag]()** - Mer API:er
+* **[Måndag]()** - Local storage och repetition
+* **[Tisdag]()** - API:er, asynkron JS och fetch. Felhantering med try catch 
+* **[Onsdag]()** - Mer API:er. Deadline på projektet, Bucket List med code review.
 * **[Torsdag]()** - Workshop, Unsplash API
 * **[Fredag]()** - Repetition
