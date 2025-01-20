@@ -27,6 +27,7 @@
 ## Slides
 * [API:er](https://docs.google.com/presentation/d/1NnuDXe2jYg-XgAooN35WM6ZBwdW3B5ArDwkjyA2jss4/edit?usp=sharing)
 * [Fetch](https://docs.google.com/presentation/d/1q0JV7j6Pk0_1HK8rWuqYKgGGAHvx3gkirpFxNwlH144/edit#slide=id.g6244d9c4c3_0_0)
+* [Local Storage](https://docs.google.com/presentation/d/1FlrQuAeXozaWKt1E-hXgKjQMR3Q6osvtU9rvCbL4FHk/edit?usp=sharing)
 
 
 ## Lektioner
