@@ -17,6 +17,7 @@
 #### Läsning
 * [Local Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
 * [Fetch](https://www.w3schools.com/js/js_api_fetch.asp)
+* [then catch](https://www.w3schools.com/jsref/jsref_promise_then.asp)
   
 ## Youtube
 
