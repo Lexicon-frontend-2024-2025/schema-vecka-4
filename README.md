@@ -12,7 +12,7 @@
 #### E-Learning:
 #### Utvalda för denna veckan:
 * [JavaScript Fundamentals till och med Asynchronous JavaScript and Error Handling](https://app.pluralsight.com/library/courses/fundamentals-javascript/table-of-contents)
-* [Javascript](https://app.pluralsight.com/paths/skill/javascript-2022)
+* [Javascript](https://app.pluralsight.com/library/courses/javascript-asynchronous-programming/table-of-contents)
   
 #### Läsning
 * [Local Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
