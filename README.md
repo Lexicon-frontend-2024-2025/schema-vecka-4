@@ -32,8 +32,8 @@
 
 ## Lektioner
 ##### Med tillhörande repon
-* **[Måndag]()** - API:er, asynkron JS och fetch. Felhantering med try catch. Local Storage.
-* **[Tisdag]()** - Mer API:er
+* **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lektion-20-jan)** - API:er, asynkron JS och fetch. Felhantering med try catch. Local Storage.
+* **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektion-21-jan)** - Mer API:er
 * **[Onsdag]()** - Deadline på projektet, Bucket List med code review.
 * **[Torsdag]()** - Workshop, Unsplash API
 * **[Fredag]()** - Repetition
