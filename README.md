@@ -22,7 +22,7 @@
 ## Youtube
 
 ## Övningar
-
+* [Unsplash API](https://github.com/Lexicon-frontend-2024-2025/unsplash-api-demo)
 
 ## Slides
 * [API:er](https://docs.google.com/presentation/d/1NnuDXe2jYg-XgAooN35WM6ZBwdW3B5ArDwkjyA2jss4/edit?usp=sharing)
@@ -35,5 +35,5 @@
 * **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lektion-20-jan)** - API:er, asynkron JS och fetch. Felhantering med try catch. Local Storage.
 * **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektion-21-jan)** - Mer API:er
 * **[Onsdag](https://github.com/Lexicon-frontend-2024-2025/lektion-22-jan)** - Deadline på projektet, Bucket List med code review.
-* **[Torsdag]()** - Workshop, Unsplash API
+* **[Torsdag](https://github.com/Lexicon-frontend-2024-2025/unsplash-api-demo)** - Workshop, Unsplash API
 * **[Fredag]()** - Repetition
